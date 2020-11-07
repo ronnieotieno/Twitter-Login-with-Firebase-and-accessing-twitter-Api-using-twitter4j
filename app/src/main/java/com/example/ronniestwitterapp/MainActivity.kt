@@ -50,9 +50,12 @@ class MainActivity : AppCompatActivity() {
      * If the file doesnt exist then the user isnt logged in, we log in the user
      */
 
+    //When Uploading pictures please try to upload small size images as raw images from camera can cause a crash, I havent dont
+    //done image compression yet
+
     private fun checkIfTwitterUserIsLoggedIn() {
 
-        //The shared pref is stored in this path /data/data/{your package}/shared_prefs/{shared pref name}.xml
+        //The shared pref is stored in this path /data/data/{your package name}/shared_prefs/{shared pref name}.xml
         //in my case its /data/data/com.example.ronniestwitterapp/shared_prefs/TwitterCredentials.xml
 
         val user = File(
