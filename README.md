@@ -1,4 +1,3 @@
-
 ### Prerequisites
 Head on to [Twitter Developers](https://developer.twitter.com/) and create your own app, get the api key and api secret, head on to Twitter Credentials class, paste them there.
 Then head to [Firebase Doc](https://firebase.google.com/docs/auth/android/twitter-login) to see how to add your twitter credentials to firebase and how to add your callback url to twitter.
