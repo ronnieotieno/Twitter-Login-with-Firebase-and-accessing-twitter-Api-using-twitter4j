@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "334998570917",
+    "firebase_url": "https://ronnie-s-twitter-app.firebaseio.com",
+    "project_id": "ronnie-s-twitter-app",
+    "storage_bucket": "ronnie-s-twitter-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334998570917:android:f8bdfc94274e1cda224a4c",
+        "android_client_info": {
+          "package_name": "com.example.ronniestwitterapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334998570917-fq56v5qj6pflsgs1h0hqum1ke5n2tu56.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_D7y5zAVysFCnyCc3hhOJCb-qtoXlQ4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334998570917-fq56v5qj6pflsgs1h0hqum1ke5n2tu56.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

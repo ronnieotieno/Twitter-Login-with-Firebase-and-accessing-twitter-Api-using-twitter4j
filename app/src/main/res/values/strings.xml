@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Ronnie\'s Twitter App</string>
+    <string name="shared_pref_path">/data/data/com.example.ronniestwitterapp/shared_prefs/TwitterCredentials.xml</string>
+</resources>
